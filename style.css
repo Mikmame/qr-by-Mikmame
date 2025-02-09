@@ -6,7 +6,7 @@
 
 html,
 body {
-  min-height: 100vh; /* Высота 100% экрана */
+  min-height: 100vh; /* Height 100% of the screen */
   width: 100%;
   background-color: #d5e1ef;
   font-family: "Outfit", sans-serif;
